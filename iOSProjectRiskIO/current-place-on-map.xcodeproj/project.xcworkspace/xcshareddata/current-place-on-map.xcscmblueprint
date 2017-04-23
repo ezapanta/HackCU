@@ -1,0 +1,33 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4641898CDE059E6FC23255D16002F0A0DC2B6EDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4641898CDE059E6FC23255D16002F0A0DC2B6EDE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D8A203C3-CB6C-40BA-8F54-737934A636DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4641898CDE059E6FC23255D16002F0A0DC2B6EDE" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "current-place-on-map",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "current-place-on-map.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ColeHoff7\/HackCU3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4641898CDE059E6FC23255D16002F0A0DC2B6EDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ColeHoff7\/HackCU3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4641898CDE059E6FC23255D16002F0A0DC2B6EDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ColeHoff7\/HackCU3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4641898CDE059E6FC23255D16002F0A0DC2B6EDE"
+    }
+  ]
+}
